@@ -34,6 +34,13 @@ Matplotlib
 
 The numerical energy eigenvalues closely match analytical solutions for the particle-in-a-box system. The first three eigenstates and corresponding wavefunctions are visualized.
 
+## Results
+
+The first three eigenstates obtained numerically:
+
+![Wavefunctions](result.png)
+
+
 ## Detailed Explanation
 
 A detailed mathematical explanation and derivation can be found here:
